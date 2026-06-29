@@ -1390,7 +1390,7 @@ function onCartBackdropClick() {
 
         <!-- Right: Oil Canvas -->
         <div class="oil-canvas-wrap w-full lg:w-[55%]">
-          <div class="relative w-full" style="height: 50vh; lg:height: 70vh;">
+          <div class="relative w-full h-[50vh] lg:h-[70vh]">
             <canvas
               ref="oilCanvasRef"
               class="absolute inset-0 w-full h-full"
